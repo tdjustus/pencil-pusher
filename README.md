@@ -5,7 +5,7 @@ A whimsical incremental clicker game where you push pencils to unlock upgrades a
 
 ## Getting Started
 
-Visit the [GitHub Page](https://welbornt.github.io/pencil-pusher/) to play the game!
+Visit the [GitHub Page](https://tdjustus.github.io/pencil-pusher/) to play the game!
 
 ## Screenshot
 
